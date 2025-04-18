@@ -1,9 +1,5 @@
-👋 Hi, I’m @har5h1l
+Hi, I’m @har5h1l
 
-👀 My github profile is for uploading my code (python) for various projects
+Here, you'll find projects/research related to AI/ML, Active Inference, Data Science, Apps, and much more. I'm most experienced in Python.
 
-🔗 Leetcode: https://leetcode.com/harsh1l/
-
-🔗 Hackerrank: https://www.hackerrank.com/harsh1l
-
-🌱 I’m currently learning python
+Check out my website for more information: https://har5h1l.github.io/
