@@ -3,6 +3,7 @@ Hi, I’m Harshil, a student from the Bay Area, passionate about AI's ability to
 
 ## Research/Work Interests
 - Artificial Intelligence
+- Data Science
 - Active Inference
 - Machine Learning
 - Neuroscience, Biology, Biomedical Sciences
@@ -14,7 +15,15 @@ Hi, I’m Harshil, a student from the Bay Area, passionate about AI's ability to
 - Here, you'll find projects/research related to AI/ML, Active Inference, Data Science, Apps, and much more.
 
 ## Current Projects
-- 
+- Current primary focus: Hierarchical Active Inference for Autonomous Drone Navigation in Microsoft AirSim with Environmentally Aware Adaptive Planning (https://github.com/har5h1l/Hierarchical-Active-Inference-for-Autonomous-Drone-Navigation-in-Microsoft-AirSim)
+- FocusGrid (https://github.com/har5h1l/FocusGrid)
+
+## Past Projects
+- An Active Inference Approach to Autonomous Navigation (https://github.com/har5h1l/Active-Inference-AutoNav-2025)
+- Nutrition Habits Data Analysis (https://github.com/har5h1l/NutritionProject)
+
+## Misc.
+You can find misc. problems, competitions prep, old code, and more in my other repos.
 
 # Links
 - Check out my website for more information: https://harshils.com/
