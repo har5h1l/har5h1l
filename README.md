@@ -5,3 +5,5 @@ Here, you'll find projects/research related to AI/ML, Active Inference, Data Sci
 Check out my website for more information: https://harshils.com/
 
 I write articles on Medium about project-related work, books, and other topics: https://medium.com/@harshilshah28
+
+Contact Email: 28hshah@gmail.com
