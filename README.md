@@ -19,7 +19,7 @@ Hi, I’m Harshil, a student from the Bay Area, passionate about AI's ability to
 - [FocusGrid](https://github.com/har5h1l/FocusGrid)
 
 ## Past Projects
-- [An Active Inference Approach to Autonomous Navigation] (https://github.com/har5h1l/Active-Inference-AutoNav-2025)
+- [An Active Inference Approach to Autonomous Navigation](https://github.com/har5h1l/Active-Inference-AutoNav-2025)
 - [Nutrition Habits Data Analysis](https://github.com/har5h1l/NutritionProject)
 
 ## Misc.
